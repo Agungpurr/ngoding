@@ -1,0 +1,37 @@
+{
+  "name": "Ngoding Tailwind",
+  "short_name": "Ngoding",
+  "description": "Deskripsi aplikasimu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#42b883",
+  "icons": [
+    {
+      "src": "/headphones-3.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/headphones-2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/image/ngoding.png",
+      "sizes": "1898x918",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/image/ss-2.png",
+      "sizes": "451x799",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
